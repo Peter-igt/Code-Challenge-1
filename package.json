@@ -1,0 +1,12 @@
+{
+  "name": "code-challenge-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "chai.js",
+  "scripts": {
+    "test": "echo \"SchoolProject\" && exit 0",
+    "start": "node chai.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
